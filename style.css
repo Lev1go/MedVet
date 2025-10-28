@@ -73,3 +73,16 @@ a {
 }   
 /* border bottom ______ */
 /* flex-warp wrap space-around*/
+span {
+    color: #6278B4;
+}
+.services-title {
+    font-size: 48px;
+    font-weight: 600;
+    border-bottom: 4px solid #6278B4;
+    display: flex;
+    justify-content: center;
+}
+.services-list {
+    display: flex;
+}
